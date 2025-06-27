@@ -206,19 +206,3 @@ Make sure the following images are present in the `/images` folder:
 
 ---
 
-## 👩‍💻 Developer Info
-
-- **Name**: Bhoomika Rai  
-- **Domain**: Python Development | GUI | DBMS  
-- **Project**: Mini Project for Hotel Management  
-- **Institute**: [Your College or Institute Here]  
-- **Tools**: Visual Studio, MySQL, Python 3.x  
-
----
-
-## 📬 Contact
-
-For improvements or bugs, connect with the developer or raise an issue in the repo.
-
----
-
